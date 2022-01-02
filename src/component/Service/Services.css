@@ -1,0 +1,41 @@
+.services {
+    display: flex;
+    flex-direction: row;
+    margin: 20px 50px;
+    max-height: 480px;
+}
+
+.service {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border: solid rgb(212, 208, 208);
+    border-width: 1px 0 1px 0;
+    border-radius: 10px 10px 20px 20px;
+    box-shadow: 0 4px 0 rgb(0 0 0 / 0.05);
+    margin: 20px 50px;
+    max-height: 450px;
+}
+
+.pic {
+    margin: 10px;
+    padding: 20px 20px 10px 20px;
+    min-width: 270px;
+    height: 250px;
+    text-align: center;
+    background-color: rgb(177, 174, 174);
+}
+
+.title-s {
+    padding: 20px 0 10px 20px;
+    font-size: 1.6rem;
+    font-weight: 400;
+    color: rgb(39, 38, 38);
+}
+
+.btn-s {
+    padding: 10px;
+    font-size: 1rem;
+    font-weight: 500;
+    border-top: 0.7px solid rgb(212, 208, 208);
+}

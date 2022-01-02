@@ -1,0 +1,9 @@
+export { default as THeader } from "./Theader/THeader";
+export { default as Header } from "./Header/Header";
+export { default as Carousels } from "./Carousel/Carousel";
+export { default as Services } from "./Service/Services";
+export { default as Products } from "./products/Products";
+export { default as Portfolio } from "./Portfolio/Portfolio";
+export { default as Developers } from "./developer/Developers";
+export { default as CTA } from ".//cta/CTA";
+export { default as Footer } from "./footer/Footer";

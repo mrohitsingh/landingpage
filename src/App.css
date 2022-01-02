@@ -1,0 +1,21 @@
+.App {
+    text-align: center;
+}
+
+p {
+    color: rgb(112, 112, 112);
+}
+
+a {
+    color: #000;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+a:hover {
+    color: rgb(129, 67, 201);
+}
+
+a:active {
+    color: rgb(129, 67, 201);
+}
